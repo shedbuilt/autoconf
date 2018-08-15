@@ -1,7 +1,7 @@
 NAME=autoconf
 VERSION=2.69
 REVISION=1
-SRC=http://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.xz
+SRC=http://mirrors.kernel.org/gnu/autoconf/autoconf-2.69.tar.xz
 SRCMD5=50f97f4159805e374639a73e2636f22e
 OPTIONS=bootstrap|release
 DEFAULTS=release
